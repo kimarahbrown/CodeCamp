@@ -10,3 +10,18 @@ h2 {
 h3 {
      color:DarkOliveGreen;
 }
+
+
+.body {
+    background-color:AliceBlue;
+}
+
+#header {
+    align: center;
+}
+
+
+body { 
+     padding-top: 70px; 
+     position: center;
+}
